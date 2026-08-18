@@ -277,9 +277,9 @@ A-B-Testing/
 ├── .gitignore
 │
 └── images/
-    ├── conversion_rate.png
-    ├── average_spend.png
-    └── conversion_by_source.png
+    ├── Conversiones_canal.png
+    ├── Tasa_llegada.png
+    └── Tasa_usuario.png
 ```
 
 ---
