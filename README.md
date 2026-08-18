@@ -23,7 +23,15 @@ El análisis busca determinar si la variante B genera una mejora estadísticamen
 El objetivo final es proporcionar evidencia cuantitativa para decidir si la nueva versión debe implementarse de forma definitiva.
 
 ---
+## 🔑 Key Takeaways
 
+- 📈 **+3.39 puntos porcentuales** en tasa de conversión con la Versión B.
+- 🚀 **+27.0% de incremento relativo** en conversión.
+- 💰 **+$7.66 de gasto promedio** por cliente con la Versión B.
+- 📊 La diferencia en conversión y gasto promedio fue **estadísticamente significativa (p < 0.001)**.
+- 📩 **Email** presentó la mayor tasa de conversión entre las fuentes de tráfico analizadas.
+- 👥 No se encontró evidencia estadísticamente significativa de asociación entre tipo de usuario y conversión.
+---
 ## 🎯 Objetivos de negocio
 
 ### 1. Evaluar la conversión
