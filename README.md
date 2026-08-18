@@ -195,6 +195,17 @@ Este resultado también es relevante: **no todas las variables analizadas presen
 
 ---
 
+## 📈 Visualizaciones
+
+A continuación se muestran las gráficas más representativas del análisis. El resto de las visualizaciones (histogramas y boxplots de las demás variables) se puede consultar directamente en el notebook.
+
+### Distribución de mensajes por plan
+
+![Histograma de mensajes](images/hist_mensajes.png)
+
+Distribución unimodal con sesgo a la derecha; no se observa un patrón claro entre el tipo de plan y la cantidad de mensa
+--- 
+
 ## 💡 Recomendación de negocio
 
 Los resultados favorecen a la **Versión B de la Landing Page**.
