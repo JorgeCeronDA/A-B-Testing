@@ -197,15 +197,23 @@ Este resultado también es relevante: **no todas las variables analizadas presen
 
 ## 📈 Visualizaciones
 
-A continuación se muestran las gráficas más representativas del análisis. El resto de las visualizaciones (histogramas y boxplots de las demás variables) se puede consultar directamente en el notebook.
+A continuación se muestran las gráficas más representativas del análisis. El resto de las visualizaciones (Graficas de Barras por Conversión por Cantidad de Usuarios y Tasa de Conversión) se puede consultar directamente en el notebook.
 
-### Distribución de mensajes por plan
+### Conversiones por Canal
 
-![Histograma de mensajes](images/hist_mensajes.png)
+![Grafico de barras de Conversiones](images/Conversiones_canal.png)
 
-Distribución unimodal con sesgo a la derecha; no se observa un patrón claro entre el tipo de plan y la cantidad de mensa
+El canal Organic es presenta un mayor tráfico de usuarios, además de una cantidad mayor de usuarios que convierten, y siendo Referral el canal que tiene un menor tráfico de usuarios y de personas que convierten consistente con la estadística que nos dice que la fuente de tráfico está directamente relacionada con la conversión
+
+
+
+### Tasa de Conversión por Tipo de Usuario
+![Grafico de Barras Apliadas de Tasa de Conversión](images/Tasa_usuario.png)
+
+
+Las tasas de conversión de cada canal donde se observa que todos los canales tienen una tasa de conversión muy similar, no se observa una diferencia a simple vista consistente con el p-value obtenido por la prueba de Fisher.
+
 --- 
-
 ## 💡 Recomendación de negocio
 
 Los resultados favorecen a la **Versión B de la Landing Page**.
